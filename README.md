@@ -9,13 +9,13 @@ I don't have a personal account for Power BI, so I will share a snapshot of the 
 
 # 1)Anomaly Detection (POC)
 
-This dashboard for POC anomaly detection. sepposed 1 report should dont have more 1 joint number.
+This dashboard is for proof of concept (POC) anomaly detection. It is designed to detect anamoly in Inspection report.
 
-Step 1 extract data from PDF
+Step 1: Extract data from PDF.
 
-Step 2 analyze data
+Step 2: Analyze the data.
 
-Step 3 create visualiztaion
+Step 3: Create visualizations
 
 ## Dashboard
 
