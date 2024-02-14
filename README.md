@@ -22,7 +22,7 @@ Step 3: Create visualizations
 ![Image](https://github.com/Fauzanpaimen/Visualization-PowerBI-/blob/main/Image/Anomaly.jpg)
 
 
-# 2)DCRMS Detection
+# 2)DCRMS Dashboard
 
 ## Dashboard
 
