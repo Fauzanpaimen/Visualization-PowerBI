@@ -23,7 +23,11 @@ Step 3: Create visualizations
 ![Image](https://github.com/Fauzanpaimen/Visualization-PowerBI-/blob/main/Image/Anomaly.jpg)
 
 
+
+
 # 2)DCRMS Dashboard
+
+Document, Content & Record Management Standard (DCRMS). CRMS Source Compliance Dashboard provides measurement and transparency of unstructured data condition at source system for business reference. The measurement focused on Metadata Completeness, Retention and Duplication at File Level in source system.
 
 ## Dashboard
 
