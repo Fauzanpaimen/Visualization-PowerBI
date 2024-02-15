@@ -35,29 +35,23 @@ Document, Content & Record Management Standard (DCRMS). CRMS Source Compliance D
 ## Dashboard
 
 ![Image](https://github.com/Fauzanpaimen/Visualization-PowerBI/blob/main/Image/DCRMS01.jpg)
-  > [+Main]
-  > Useful information that users should know, even when skimming content.
+  [Main Page]> Useful information that users should know, even when skimming content.
 
 
 ![Image](https://github.com/Fauzanpaimen/Visualization-PowerBI/blob/main/Image/DCRMS02.jpg)
-  > [Main]
-  > Useful information that users should know, even when skimming content.
+  [Main Page]> Useful information that users should know, even when skimming content.
 
 ![Image](https://github.com/Fauzanpaimen/Visualization-PowerBI/blob/main/Image/DCRMS03.jpg)
-  > [Sub Page]
-  > Useful information that users should know, even when skimming content.
+  [Sub Page]> Useful information that users should know, even when skimming content.
 
 ![Image](https://github.com/Fauzanpaimen/Visualization-PowerBI/blob/main/Image/DCRMS04.jpg)
-  > [Sub Page]
-  > Useful information that users should know, even when skimming content.
+  [Sub Page]> Useful information that users should know, even when skimming content.
 
 ![Image](https://github.com/Fauzanpaimen/Visualization-PowerBI/blob/main/Image/DCRMS05.jpg)
-  > [Sub Page]
-  > Useful information that users should know, even when skimming content.
+  [Sub Page]> Useful information that users should know, even when skimming content.
 
 ![Image](https://github.com/Fauzanpaimen/Visualization-PowerBI/blob/main/Image/DCRMS06.jpg)
-  > [Sub Page]
-  > Useful information that users should know, even when skimming content.
+  [Sub Page]> Useful information that users should know, even when skimming content.
 
 
 
