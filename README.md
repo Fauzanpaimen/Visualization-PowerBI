@@ -35,7 +35,8 @@ Document, Content & Record Management Standard (DCRMS). CRMS Source Compliance D
 ## Dashboard
 
 ![Image](https://github.com/Fauzanpaimen/Visualization-PowerBI/blob/main/Image/DCRMS01.jpg)
-1) Main Page :
+  > [!NOTE]
+  > Useful information that users should know, even when skimming content.
 
 
 ![Image](https://github.com/Fauzanpaimen/Visualization-PowerBI/blob/main/Image/DCRMS02.jpg)
