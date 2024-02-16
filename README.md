@@ -47,10 +47,10 @@ Document, Content & Record Management Standard (DCRMS). CRMS Source Compliance D
 <pre>[Sub Page]> Page for checking duplicates in a specific source.
 </pre>
 ![Image](https://github.com/Fauzanpaimen/Visualization-PowerBI/blob/main/Image/DCRMS05.jpg)
-<pre>[Sub Page]> Page for checking duplicates in a specific source.
+<pre>[Sub Page]> Page for checking incomplete metadata in a specific source.
 </pre>
 ![Image](https://github.com/Fauzanpaimen/Visualization-PowerBI/blob/main/Image/DCRMS06.jpg)
-<pre>[Sub Page]> Page for checking duplicates in a specific source.
+<pre>[Sub Page]> Page for checking retention period in a specific source.
 </pre>
 
 
