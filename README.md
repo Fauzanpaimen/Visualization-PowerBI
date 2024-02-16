@@ -35,22 +35,22 @@ Document, Content & Record Management Standard (DCRMS). CRMS Source Compliance D
 ## Dashboard
 
 ![Image](https://github.com/Fauzanpaimen/Visualization-PowerBI/blob/main/Image/DCRMS01.jpg)
-<pre>[Main Page]> Useful information that users should know, even when skimming content.
+<pre>[Main Page]> The homepage displays overall data from all sources. There are buttons that allow you to hover over them to navigate to other pages.
 </pre>
 ![Image](https://github.com/Fauzanpaimen/Visualization-PowerBI/blob/main/Image/DCRMS02.jpg)
-<pre>[Main Page]> Useful information that users should know, even when skimming content.<br />
+<pre>[Main Page]> Page that show duplicate across source.
 </pre>
 ![Image](https://github.com/Fauzanpaimen/Visualization-PowerBI/blob/main/Image/DCRMS03.jpg)
-<pre>[Sub Page]> Useful information that users should know, even when skimming content.
+<pre>[Sub Page]> Main page for Specific source.
 </pre>
 ![Image](https://github.com/Fauzanpaimen/Visualization-PowerBI/blob/main/Image/DCRMS04.jpg)
-<pre>[Sub Page]> Useful information that users should know, even when skimming content.
+<pre>[Sub Page]> Page for checking duplicates in a specific source.
 </pre>
 ![Image](https://github.com/Fauzanpaimen/Visualization-PowerBI/blob/main/Image/DCRMS05.jpg)
-<pre>[Sub Page]> Useful information that users should know, even when skimming content.
+<pre>[Sub Page]> Page for checking duplicates in a specific source.
 </pre>
 ![Image](https://github.com/Fauzanpaimen/Visualization-PowerBI/blob/main/Image/DCRMS06.jpg)
-<pre>[Sub Page]> Useful information that users should know, even when skimming content.
+<pre>[Sub Page]> Page for checking duplicates in a specific source.
 </pre>
 
 
