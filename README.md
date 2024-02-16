@@ -12,7 +12,7 @@ I don't have a personal account for Power BI, so I will share a snapshot of the 
 
 # 1)Anomaly Detection (POC)
 
-This dashboard is for proof of concept (POC) anomaly detection. It is designed to detect anamoly in Inspection report.
+This dashboard created to visualize output for POC anomaly detection.
 
 Step 1: Extract data from PDF.
 
