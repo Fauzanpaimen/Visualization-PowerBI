@@ -59,3 +59,24 @@ Document, Content & Record Management Standard (DCRMS). CRMS Source Compliance D
 
 # 3)Nebula Dashboard
 
+Document, Content & Record Management Standard (DCRMS). CRMS Source Compliance Dashboard provides measurement and transparency of unstructured data condition at source system for business reference. The measurement focused on Metadata Completeness, Retention and Duplication at File Level in source system.
+
+## Dashboard
+
+![Image](https://github.com/Fauzanpaimen/Visualization-PowerBI/blob/main/Image/Nebula1.jpg)
+<pre>[Main Page]> The homepage displays overall data from all sources. There are buttons that allow you to hover over them to navigate to other pages.
+</pre>
+![Image](https://github.com/Fauzanpaimen/Visualization-PowerBI/blob/main/Image/Nebula2.jpg)
+<pre>[Main Page]> Page that show duplicate across source.
+</pre>
+![Image](https://github.com/Fauzanpaimen/Visualization-PowerBI/blob/main/Image/Nebula3.jpg)
+<pre>[Sub Page]> Main page for Specific source.
+</pre>
+![Image](https://github.com/Fauzanpaimen/Visualization-PowerBI/blob/main/Image/Nebula4.jpg)
+<pre>[Sub Page]> Page for checking duplicates in a specific source.
+</pre>
+![Image](https://github.com/Fauzanpaimen/Visualization-PowerBI/blob/main/Image/Nebula5.jpg)
+<pre>[Sub Page]> Page for checking incomplete metadata in a specific source.
+</pre>
+
+
