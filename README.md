@@ -4,7 +4,7 @@
 
 
 
-I don't have a personal account for Power BI, so I will share a snapshot of the dashboard I created using Power BI. Since my dashboard mostly contains internal data for my company, I will mask or cover all the sensitive information.
+I don't have a personal account for Power BI, so I will share a snapshot of the dashboard I created using Power BI. Since my dashboard mostly contains internal data for my previous company, I will mask or cover all the sensitive information.
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -12,13 +12,12 @@ I don't have a personal account for Power BI, so I will share a snapshot of the 
 
 # 1)Anomaly Detection (POC)
 
-This dashboard created to visualize output for POC anomaly detection.
+This dashboard is created to visualize output for POC anomaly detection. If the indicator is red, there is anomalous data in the PDF within the folder. For this POC, it is assumed that there is no duplicated data between PDFs within the folder.
 
-Step 1: Extract data from PDF.
-
-Step 2: Analyze the data.
-
-Step 3: Create visualizations
+- Data is extracted from PDFs, then output is saved in JSON format.
+- Power BI will connect to the folder of the JSONs.
+- Data transformation is done in Power Query.
+- DAX is utilized for green-red indicators.
 
 ## Dashboard
 
