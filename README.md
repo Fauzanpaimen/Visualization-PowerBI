@@ -33,7 +33,7 @@ Document, Content & Record Management Standard (DCRMS). CRMS Source Compliance D
 
 This dashboard is connected to a Neo4j database, which is a graph database. It connects via API and queries data using Cypher. Additionally, it pulls metadata from five different sources within Neo4j. Utilized Power Query for data transformation and DAX for calculations.
 
-This dashboard shows both overall data and data for each source. You can navigate to a detailed page for each source
+This dashboard shows both overall data and data for each source. You can navigate to a detailed page for each source. The red dot box shows a button you can click.
 
 ## Dashboard
 
