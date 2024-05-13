@@ -31,6 +31,10 @@ This dashboard is created to visualize output for POC anomaly detection. If the 
 
 Document, Content & Record Management Standard (DCRMS). CRMS Source Compliance Dashboard provides measurement and transparency of unstructured data condition at source system for business reference. The measurement focused on Metadata Completeness, Retention and Duplication at File Level in source system.
 
+This dashboard is connected to a Neo4j database, which is a graph database. It connects via API and queries data using Cypher. Additionally, it pulls metadata from five different sources within Neo4j. Utilized Power Query for data transformation and DAX for calculations.
+
+This dashboard shows both overall data and data for each source. You can navigate to a detailed page for each source
+
 ## Dashboard
 
 ![Image](https://github.com/Fauzanpaimen/Visualization-PowerBI/blob/main/Image/DCRMS01.jpg)
