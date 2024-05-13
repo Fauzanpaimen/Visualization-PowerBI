@@ -64,6 +64,8 @@ This dashboard shows both overall data and data for each source. You can navigat
 
 Nebula Dashboard to monitor progress from 4 pillars: business development, product, operations, and marketing.
 
+This dashboard is connected to Excel in the SharePoint and sharepoint list, leveraging data modeling to connect between tables. DAX is used for calculations.
+
 ## Dashboard
 
 ![Image](https://github.com/Fauzanpaimen/Visualization-PowerBI/blob/main/Image/Nebula1.jpg)
