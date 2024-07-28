@@ -4,7 +4,7 @@
 
 
 
-I don't have a personal account for Power BI, so I will share a snapshot of the dashboard I created using Power BI. Since my dashboard mostly contains internal data for my previous company, I will mask or cover all the sensitive information. [Slide Show](https://www.canva.com/design/DAGMPL8nAUA/_iIZ0MxLGD9Xwv1uoYgIJQ/edit?utm_content=DAGMPL8nAUA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+I don't have a personal account for Power BI, so I will share a snapshot of the dashboard I created using Power BI. Since my dashboard mostly contains internal data for my previous company, I will mask or cover all the sensitive information. [Slide Show](https://www.canva.com/design/DAGMPL8nAUA/waJUTF7fLKqmo2pctjpoZg/view?utm_content=DAGMPL8nAUA&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
 
